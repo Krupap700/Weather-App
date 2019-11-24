@@ -1,0 +1,36 @@
+#container{
+	margin:auto;
+	max-width: 500px;
+	text-align: center;
+	padding: 30px;
+	background: #143A9A;
+	border-radius: 25px;
+}
+
+body{
+	margin:0;
+	padding:100px;
+	padding-top: 120px;
+	background: #A5E9FB;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+h3{
+	color:white;
+}
+
+h1{
+	color:white;
+}
+
+h4{
+	text-transform: uppercase;
+	color:#A5E9FB
+}
